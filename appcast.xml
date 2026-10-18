@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OnePaper</title>
+    <link>https://github.com/jhasubhash/onepaper-releases</link>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Sun, 18 Oct 2026 19:10:54 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.0</h3><p>The first release: a Craft-style notes app for Mac, iPad and iPhone, built for code and machine-learning notes.</p><ul><li>Block editor with live Markdown, slash commands, toggles, callouts and linked pages</li><li>Code blocks with syntax highlighting, LaTeX math and tables</li><li>Whiteboards powered by Excalidraw</li><li>Collections: tables, boards, galleries and lists inside a page</li><li>Spaces, folders, tags, starred pages and back/forward navigation</li><li>Tasks and a calendar of daily notes, with due dates synced to Apple Reminders or Todoist</li><li>AI writing with Claude (bring your own API key)</li><li>iCloud sync across your devices</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.0/OnePaper-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="s0GOZvHhwSDxSkVn0HGwJyCUhbmEvMsx0C2Q631lXJDOrfYBh+1sn33iphgegkWmb3/2I8fg/Qyf/jzldkD9Bg==" length="13461180"/>
+    </item>
+  </channel>
+</rss>
