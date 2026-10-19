@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.4</title>
+      <pubDate>Mon, 19 Oct 2026 08:59:38 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.4</h3><ul><li>Tasks › Inbox: capture to-dos quickly and sort them out later. Inbox tasks stay undated unless you type a date (&quot;book flights friday&quot;), and the Inbox menu clears completed ones</li><li>Mac: dragging a window&#x27;s top corners or edges now resizes it instead of moving it</li><li>A cleaner About window, with the app&#x27;s tagline, a link to its page and a copyright line</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.4/OnePaper-0.1.4.dmg" type="application/octet-stream" sparkle:edSignature="ee9QiGlubRHXu/Ah84meo9/wnFpMvOWSKcbLhyAvGvBiRpHl3OK2o2BjqMTjJsY82nTlkKKCE3qyxsAFyUhdDw==" length="16683764"/>
+    </item>
+    <item>
       <title>Version 0.1.3</title>
       <pubDate>Mon, 19 Oct 2026 08:24:49 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
