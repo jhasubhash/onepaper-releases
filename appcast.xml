@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.6</title>
+      <pubDate>Mon, 19 Oct 2026 18:00:23 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.6</h3><ul><li>Focus mode: just the page, without the sidebar and the top bar. Toggle it with ⇧⌘F or from Quick Open</li><li>Quick Open runs commands too: type &quot;focus&quot;, &quot;theme&quot; or &quot;sidebar&quot; to toggle them, or start with &gt; (⇧⌘P on Mac) to list only commands</li><li>Removes the duplicate starter pages and folders (&quot;Welcome to OnePaper&quot;, &quot;Machine Learning&quot;, &quot;Engineering&quot;…) that appeared once iCloud sync started working, for libraries set up with 0.1.0–0.1.2. Pages you added to those folders move to the remaining one</li><li>Fixes a crash on launch while the duplicates were being removed</li><li>Mac: switching tabs no longer flickers. The tab pill slides as one piece, the close button stays put, and the tab bar doesn&#x27;t jolt</li><li>Mac: the sidebar changes colour together with the title bar</li><li>Mac: the search button sits at the right edge of the window</li><li>iPhone: pages in the sidebar open again (they showed the last folder instead), and Back returns to the sidebar</li><li>iPhone and iPad: folder Edit and New Folder open as a sheet instead of off the edge of the screen</li><li>iPhone and iPad: the / menu opens above lines low on the screen, clear of the keyboard</li><li>iPhone: page titles show in list rows, the page details fit the width, and the whiteboard title fits beside its buttons</li><li>iPhone: the keyboard toolbar&#x27;s overflow menu shows each item&#x27;s name, and the cursor stays above the toolbar as you type</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.6/OnePaper-0.1.6.dmg" type="application/octet-stream" sparkle:edSignature="8QNz7XWczPTe3gBweTSLlhNtHGD6L7A4of8xbw5hfNE8AcDRPuuO44GOXQgJABnJjbaLh/8fO2V0m4f6jyUNDQ==" length="16210613"/>
+    </item>
+    <item>
       <title>Version 0.1.5</title>
       <pubDate>Mon, 19 Oct 2026 13:08:19 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
