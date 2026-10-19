@@ -85,8 +85,8 @@ and can be embedded in a page with `/whiteboard`. Export as PNG, SVG or `.excali
   <img src="screenshots/mac-tasks.png" alt="Tasks gathered from every page onto page-coloured cards" width="900">
 </p>
 
-- **One Tasks view** gathers every to-do from every page: Today (with overdue), Upcoming, All
-  and Done.
+- **One Tasks view** gathers every to-do from every page: **Inbox** for quick captures, Today
+  (with overdue), Upcoming, All and Done.
 - **Dates the way you'd say them:** type `@` in a to-do (`@tomorrow 9am`, `@next fri`), or add
   "review PR tomorrow 10am" from the Tasks view.
 - **Reminders that sync:** OnePaper notifications, **Apple Reminders** (two-way) or **Todoist**,
