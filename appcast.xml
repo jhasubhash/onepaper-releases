@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Mon, 19 Oct 2026 07:43:26 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.2</h3><ul><li>Tabs: open pages side by side, with a New Tab page for creating pages and reopening recent ones</li><li>Show tabs at the top of the window, auto-hidden, or in the sidebar (right-click the tab bar)</li><li>Craft-style window: the sidebar and toolbar take on the open page&#x27;s colour, and pages fill the window (turn on Backdrop in Page Style for a floating sheet)</li><li>Option to use the same theme for every page</li><li>Paste a link as plain text, a bookmark card, or an embed: YouTube, Vimeo, Loom, Spotify and Figma play right in the page (also `/embed`)</li><li>New assistant panel with preset prompts, saved prompts and conversation history</li><li>Sidebar: the space switcher sits at the top, folders expand to show their pages, pin your key tags, All Tags view, quick task and new folder buttons</li><li>Folder icons: a searchable grid of about 200 icons with colour swatches</li><li>Inline `$…$` math is drawn as formulas in the editor and in page previews</li><li>Dark page colours (Midnight, Terminal, Graphite…) now switch the sidebar to light text, and the Page Style panel stays open while you change colours</li><li>Whiteboards open without a zoom jump, and the starred page you&#x27;re on is highlighted in the sidebar</li><li>Grid layout keeps cards inside their cells</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.2/OnePaper-0.1.2.dmg" type="application/octet-stream" sparkle:edSignature="wMaDeWhjLd60NugU3LmHlN8ngWNLkp+tpRgifVakG4qMV3J9JmVVP4gfBR3z5TmREbF/WyHUjPtKGPAIfInGAg==" length="16552427"/>
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <pubDate>Sun, 18 Oct 2026 19:57:51 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
