@@ -93,6 +93,21 @@ and can be embedded in a page with `/whiteboard`. Export as PNG, SVG or `.excali
 - **Reminders that sync:** OnePaper notifications, **Apple Reminders** (two-way) or **Todoist**,
   plus "Send to Things 3".
 
+## ✨ Claude in the page
+
+<p align="center">
+  <img src="screenshots/mac-assistant.png" alt="The Claude assistant open beside a paper-notes page, with prompt suggestions" width="900">
+</p>
+
+Press **⌘J** (or type `/ai`) and an assistant opens beside the page, already reading it.
+
+- **One-click prompts:** summarize the page, fix spelling and grammar, continue writing, translate,
+  pull out to-dos or outline. On a block: improve, shorten, explain or comment code, or turn it into LaTeX.
+- **Ask anything,** or turn on **Ask my notes** to get answers from across the whole space.
+- **Your own prompts,** saved for reuse, and a history of past chats.
+- Answers go into the page as **real blocks**, inserted below or replacing the block.
+- Runs on **Claude Opus 5.5** by default, with your own Anthropic API key.
+
 ## 🌗 Light, dark and everything in between
 
 <p align="center">
@@ -123,7 +138,6 @@ goes through a server of mine.
 - **Tabs** that open pages side by side. Show them at the top, auto-hidden, or in the sidebar.
 - **Calendar** with daily notes.
 - **⌘K quick open** with full-text search.
-- **AI writing with Claude:** continue, summarize, fix grammar, explain code, convert to LaTeX, or ask your notes.
 - **Export** as Markdown, HTML or PDF, and import Markdown.
 
 ---
