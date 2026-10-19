@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Mon, 19 Oct 2026 13:08:19 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.5</h3><ul><li>Folders can nest: make a folder inside another from its menu, or move one with Move to…. Subfolders show in the sidebar and at the top of their parent folder</li><li>New page and folder menus, like Craft&#x27;s: open in a new tab or window, copy a link, copy or export as Markdown, plain text or HTML, move, duplicate and more</li><li>Select several pages in the library with ⌘-click or ⇧-click, then star, move or delete them together. A plain click opens a page</li><li>Paste an image straight into a page from the clipboard</li><li>Resize images with the handles on either side, and align them left, centre or right</li><li>Clicking outside a block, or into another one, clears the text selection</li><li>To-dos no longer re-wrap when you hover them; the date button sits right after the text</li><li>Quick Open (⌘K) opens in the middle of the window</li><li>With the sidebar hidden, the sidebar button no longer overlaps the tab bar</li><li>Pages fade in when you switch to them, including from the sidebar</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.5/OnePaper-0.1.5.dmg" type="application/octet-stream" sparkle:edSignature="jYAQldf6ditdGew9VgqA7GVi8AvTPeoo9F0YLakAxETnGxSWpH98424Dk3Qo+WF7zh5s+/vKK31AzKVvQE5OBA==" length="17238144"/>
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <pubDate>Mon, 19 Oct 2026 08:59:38 GMT</pubDate>
       <sparkle:version>5</sparkle:version>

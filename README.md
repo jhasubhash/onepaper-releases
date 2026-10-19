@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/jhasubhash/onepaper-releases/releases/latest"><b>Download for Mac</b></a>
+  &nbsp;·&nbsp; <code>brew install --cask jhasubhash/tap/onepaper</code>
   &nbsp;·&nbsp; iPhone and iPad via TestFlight
 </p>
 
@@ -130,6 +131,14 @@ goes through a server of mine.
 ## Install
 
 ### Mac
+
+With [Homebrew](https://brew.sh):
+
+```sh
+brew install --cask jhasubhash/tap/onepaper
+```
+
+Or download it yourself:
 
 1. Download `OnePaper-x.y.z.dmg` from **[Releases](https://github.com/jhasubhash/onepaper-releases/releases/latest)**.
 2. Open it and drag **OnePaper** to **Applications**.
