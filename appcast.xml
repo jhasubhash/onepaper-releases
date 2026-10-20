@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.11</title>
+      <pubDate>Tue, 20 Oct 2026 14:53:44 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.11</h3><ul><li>Backups: OnePaper keeps daily copies of your library (in a folder you can choose) and can restore everything missing, or just the pages you pick</li><li>Pages: Copy a page in the sidebar or library, then Paste it on a folder to make a copy there; ⌘C and ⌘V work in the sidebar too</li><li>Sidebar on Mac: ↑/↓ preview pages without opening them, Return opens; hover previews can be turned off in Settings</li><li>Sidebar: ⌘-click and ⇧-click pick a row wherever you click on it; no more bounce when everything fits</li><li>Editor on Mac: click in the margin beside a block to select it, and Delete removes blocks one by one, upwards; a faint hint shows which block a click would select (can be turned off in Settings)</li><li>Delete on a line below an image, card or table selects that block, ready to delete</li><li>Bookmarks show the real title, description and thumbnail (including YouTube, Vimeo and Loom), with the thumbnail beside the details</li><li>Link menus (Paste as bookmark or embed) can be clicked with the mouse, and Undo removes a pasted link</li><li>Fixed a crash on Undo or Redo after editing a block that had since been removed</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.11/OnePaper-0.1.11.dmg" type="application/octet-stream" sparkle:edSignature="VWIbLlFkcNbMMYbTuVRZInrEwHzN/8+METQGcqMjA6f27eLC1jAWYevQM6KoyoAvfaiLwJKzHqjAN0TTTmDEDA==" length="17569512"/>
+    </item>
+    <item>
       <title>Version 0.1.10</title>
       <pubDate>Tue, 20 Oct 2026 08:03:11 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
