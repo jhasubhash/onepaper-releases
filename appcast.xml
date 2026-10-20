@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.7</title>
+      <pubDate>Tue, 20 Oct 2026 03:52:22 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.7</h3><ul><li>Fixes a crash that could happen when moving between pages and sections, such as opening Calendar after switching pages</li><li>iPad: switching pages from the sidebar no longer leaves a blank page without its toolbar</li><li>iPad: pages behave like on Mac. The sidebar highlights the open page, and Back appears only after you follow a link</li><li>Quick Open and the command palette take the keyboard when they open, so typing goes into them rather than the page</li><li>Mac: Esc closes Quick Open and the command palette, and pressing their shortcut again closes them</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.7/OnePaper-0.1.7.dmg" type="application/octet-stream" sparkle:edSignature="YRZl631f2mrLCaymSSqEQ9b2TRBQzW+1DZA/++/+AQtN3aRCPTVS1aErQSuEMjuXjnTYGf45Wh/hr7aSwE0wCQ==" length="16216139"/>
+    </item>
+    <item>
       <title>Version 0.1.6</title>
       <pubDate>Mon, 19 Oct 2026 18:00:23 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
