@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.10</title>
+      <pubDate>Tue, 20 Oct 2026 08:03:11 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.10</h3><ul><li>Sidebar on Mac: ⌘-click or ⇧-click to pick several pages and folders, then drag them onto a folder, or right-click to star, move, export or delete them together</li><li>Folders can be dragged into other folders</li><li>Sidebar hover highlight now matches the selection, including nested pages and folders</li><li>Right-clicking a folder, page or tag in the sidebar no longer outlines it in blue</li><li>Assistant: Shift-Return adds a new line; text is sharper on non-Retina displays</li><li>Images: ⌘V on a selected image pastes below it</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.10/OnePaper-0.1.10.dmg" type="application/octet-stream" sparkle:edSignature="LHGZm0YpWQFLSj5jd6uiy1MFxLlzpNGTXuXnyb8wY8m0KpDzVY0bdFBIAt3Z+YQRIg0fNDpP9b6K50LpQYTUAQ==" length="17020163"/>
+    </item>
+    <item>
       <title>Version 0.1.9</title>
       <pubDate>Tue, 20 Oct 2026 06:31:11 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
