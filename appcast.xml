@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.9</title>
+      <pubDate>Tue, 20 Oct 2026 06:31:11 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.9</h3><ul><li>Multiple windows: File › New Window (⌃⌘N) opens a window with its own tabs and history; iPad can open more than one window too</li><li>Press ⌘A twice to select the whole page, then copy, cut or delete it</li><li>⌘Z now undoes block changes too, such as a pasted, cut or deleted image</li><li>Images: copy and cut them with ⌘C / ⌘X or from the block menu</li><li>AI on Mac: use Claude Code, GitHub Copilot CLI or OpenCode with your own plan, now also in the downloaded app (Settings › AI, one-time set-up)</li><li>Tabs in the sidebar: only the open tab is highlighted, text stays crisp, right-click no longer outlines the row in blue, and moving tabs back to the top leaves the sidebar tidy</li><li>iPhone: all accent colours show in Settings instead of being cut off</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.9/OnePaper-0.1.9.dmg" type="application/octet-stream" sparkle:edSignature="1w0o7t+RgqfqKHHJdGxczYOQ1wihvqXmH7MVPoKJ7x77NHNzuyrA+QtYzXNJxYFYl3z2rOSk/72Bsm4hKx91DA==" length="16986385"/>
+    </item>
+    <item>
       <title>Version 0.1.8</title>
       <pubDate>Tue, 20 Oct 2026 04:27:35 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
