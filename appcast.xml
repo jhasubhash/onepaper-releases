@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.12</title>
+      <pubDate>Wed, 21 Oct 2026 10:37:22 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.12</h3><ul><li>AI agents on your Mac (Claude Code, Codex, Cursor…) can create, read and add to pages: turn it on in Settings › AI Agents (MCP) and copy the setup command</li><li>Assistant: attach files (paperclip, or drop them on it) — text, Markdown, PDF, Word, RTF, HTML and images — and ask for a summary to insert into the page</li><li>Editor on Mac: a selected block shows quick actions beside it (move, duplicate, copy, more, delete); ⌘C copies it</li><li>Typed arrows and symbols: -&gt; becomes →, != becomes ≠, &lt;= becomes ≤ and more (can be turned off in Settings › Editor)</li><li>⌘Z on a new, untouched page undoes creating it</li><li>Sidebar: drop Markdown files from Finder on a folder (or the Folders header) to import them as pages</li><li>Sidebar: drop pages and folders on the Folders header to move them to the top level</li><li>Sidebar: ⌘-click and ⇧-click pick only what you click, and Delete removes them even if you were typing in a page</li><li>Sidebar hover highlights and previews stay quiet while a menu or sheet is open</li><li>Opening the assistant in one window no longer opens it in every window</li><li>Smoother sidebar toggle button when showing or hiding the sidebar</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.12/OnePaper-0.1.12.dmg" type="application/octet-stream" sparkle:edSignature="PDtIZGiWzAyXK4fiC08MDQxm6huOFnxEyS33yZW5Xl24R296pobIw5CMp2hs9vhnFFy2WZ0cMWVSL8xSxJqpCA==" length="18151462"/>
+    </item>
+    <item>
       <title>Version 0.1.11</title>
       <pubDate>Tue, 20 Oct 2026 14:53:44 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
