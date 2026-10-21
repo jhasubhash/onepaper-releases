@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.13</title>
+      <pubDate>Wed, 21 Oct 2026 11:38:27 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.13</h3><ul><li>Settings are organised into panes: Appearance, Editor, AI, Tasks, Sync &amp; Backup, Shortcuts and About</li><li>About shows the version and lets you check for updates and choose whether updates download and install automatically</li><li>Editor on Mac: one drag handle (≡) in the left gutter, as in Notion and Craft — drag to move a block, click to select it, right-click for its menu; it also appears when the pointer is in the margin beside a block</li><li>Blocks can be dropped anywhere on the page, margins included, with a single line showing where they&#x27;ll land</li><li>Right-click a selected block for the block menu</li><li>Markdown files dropped on a sidebar folder now become pages (they also can be dropped on a folder&#x27;s page, All Docs or Starred); dropping a Finder folder imports the Markdown files inside; ⌘Z undoes an import</li><li>Image captions stay centred under the image when it&#x27;s aligned left or right</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.13/OnePaper-0.1.13.dmg" type="application/octet-stream" sparkle:edSignature="QT5A1NIQjKJQaIvm7A1SAXvKxykIA1bg6VMxfla+8yZF5kW56IjjRBqR3lX6GWiA+6ys00Pk2znUYxu70zUqAQ==" length="18239039"/>
+    </item>
+    <item>
       <title>Version 0.1.12</title>
       <pubDate>Wed, 21 Oct 2026 10:37:22 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
