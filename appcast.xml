@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.15</title>
+      <pubDate>Wed, 21 Oct 2026 18:46:13 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.15</h3><ul><li>PDF reader: double-click a PDF on a page (or choose Open in Reader) to read it in a tab of its own, with page thumbnails, its table of contents, Find, zoom, and the page you left off on</li><li>Highlight, underline and comment on text in PDFs, mark a figure, table or equation with a box, or pin a note anywhere on a page; the Notes pane lists them all by page and colour</li><li>PDFs take your page theme&#x27;s paper and text colours (or keep their own), light or dark, and show links as blue text instead of boxes</li><li>Copy Link to any highlight and paste it in a page: it opens the reader right there. A link can also show as an excerpt card with the highlighted spot cropped from the PDF, live</li><li>Add Highlights to Page puts a PDF&#x27;s highlights and notes under it as quotes, each linked back to its spot; Copy Highlights as Markdown copies them</li><li>Paper details: a PDF&#x27;s title, authors and year are read from it and filled in from arXiv or Crossref; copy BibTeX or a citation from the reader&#x27;s ⓘ</li><li>Ask Claude about a paper, or select a passage and ask about that; add an answer to the page</li><li>Share or export a PDF with its highlights and notes written in, for Preview, Acrobat or Zotero</li><li>iPad: draw on PDFs with Apple Pencil</li><li>Find in All Pages searches the text of PDFs and their highlights and notes</li><li>Mac: Undo keeps a page&#x27;s whole history (typing and block changes) while it&#x27;s open, even after switching tabs</li><li>Mac: files and images dropped on a line of text go in as blocks</li><li>New Page and All Pages: pages are called pages everywhere</li><li>Settings › Papers has the reader&#x27;s preferences</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.15/OnePaper-0.1.15.dmg" type="application/octet-stream" sparkle:edSignature="mxqtr3FEl/IrQd5MwrDnIZOfSxP882dW9eIaV+rqSv5luTCvjbHjFyd/28r7ZvfxAyHGOA28wUHEELBaQqJ5CA==" length="18994593"/>
+    </item>
+    <item>
       <title>Version 0.1.14</title>
       <pubDate>Wed, 21 Oct 2026 16:19:39 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
