@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.18</title>
+      <pubDate>Thu, 22 Oct 2026 16:41:52 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.18</h3><ul><li>iPhone: tapping a PDF in the reader no longer closes the app</li><li>iPad: deleting a drawing on a PDF clears it from the page at once</li><li>The PDF reader keeps its zoom and place when the Draw tool goes on or off</li><li>Mac: clicking the top bar of a window in the background brings it forward and makes it active</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.18/OnePaper-0.1.18.dmg" type="application/octet-stream" sparkle:edSignature="kIidUoygAwWWj6+OXA8zcMw219L0D4t1jU2P1WejfmgF8lANZH2z1y80vK6i0b8T5id9HruKukO7vMsgONKrCw==" length="19138177"/>
+    </item>
+    <item>
       <title>Version 0.1.17</title>
       <pubDate>Thu, 22 Oct 2026 11:46:00 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
