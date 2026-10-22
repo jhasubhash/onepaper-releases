@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.19</title>
+      <pubDate>Thu, 22 Oct 2026 17:39:51 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.19</h3><ul><li>Videos play in the page: a MOV, MP4 or M4V attached to a page shows as a player (right-click › Show as › Attachment turns it back into a card)</li><li>Mac: the sidebar slides in and out smoothly, with the tabs following it instead of stepping the wrong way first</li><li>Mac: leaving focus mode no longer reshuffles the tabs while the sidebar comes back</li><li>Mac: with the top bar on Auto Hide, clicking the sidebar button no longer hides and shows the bar</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.19/OnePaper-0.1.19.dmg" type="application/octet-stream" sparkle:edSignature="pwSctlOi4sBiD8rBRmOGVV2CI3Z2wUiJmgA4BKNVpW24TcCxzsQjls79NnNgNx0t6+AGepza7kBa7NYnA8h9Cw==" length="19132251"/>
+    </item>
+    <item>
       <title>Version 0.1.18</title>
       <pubDate>Thu, 22 Oct 2026 16:41:52 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
