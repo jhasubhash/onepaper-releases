@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.17</title>
+      <pubDate>Thu, 22 Oct 2026 11:46:00 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.17</h3><ul><li>Format selected text: on the Mac a bar above the selection has bold, italic, underline, strikethrough, highlight, code and text colours (strong and light); on iPhone and iPad they&#x27;re in a Format menu in the selection menu and the keyboard bar. Choose a style again to take it off. ⌘U underlines</li><li>Paste a link to an arXiv paper and choose Paper PDF: the PDF is downloaded and put on the page, with the paper&#x27;s details filled in. An arXiv bookmark or link has it under Show as</li><li>The slash menu and other inline menus open upwards near the bottom of the window instead of being cut off</li><li>iPhone and iPad: Undo and Redo buttons in the page&#x27;s top bar and above the keyboard, through the page&#x27;s whole history while it&#x27;s open</li><li>Return, Backspace at the start of a block and Delete at its end are steps of their own in Undo</li><li>iPhone and iPad: tap a PDF on a page to open it in the reader (a double tap still zooms)</li><li>iPhone: the book button opens a PDF in the reader after the page was opened from the library</li><li>iPad: a new drawing on a PDF no longer disappears a moment after it&#x27;s drawn or when a note is picked</li><li>iPhone and iPad: a to-do&#x27;s text uses the whole line while it&#x27;s being edited, instead of wrapping half way across</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.17/OnePaper-0.1.17.dmg" type="application/octet-stream" sparkle:edSignature="KYPqNCQBr+WvkKCp03Ngzf/aXvfs9z7sjvlvFJfcTIT+Win1gUsHRnYvI/MjFpI5SRVN2F6T2Hy8rctq78n2Bg==" length="19137326"/>
+    </item>
+    <item>
       <title>Version 0.1.15</title>
       <pubDate>Wed, 21 Oct 2026 18:46:13 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
