@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.20</title>
+      <pubDate>Thu, 22 Oct 2026 19:26:47 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.20</h3><ul><li>Hide completed to-dos on a page: click the to-do count under the title, or choose Hide Completed To-dos in the page&#x27;s menu. The setting syncs with the page</li><li>Page cards in All Pages show the word count, to-dos done and when the page was last edited (Settings › Appearance › Show details on page cards turns this off)</li><li>Images copied as Markdown and pasted back show as images waiting for their picture, instead of `![image]()`</li><li>The Assistant button fades out while you type, so it no longer covers the text</li><li>Typing on long pages is lighter: the page&#x27;s Markdown is no longer rebuilt on every keystroke</li><li>Mac: the sidebar no longer stalls half way as it slides in on narrow windows, and long pages stay smooth while it slides</li><li>Mac: no line under the title bar in a page&#x27;s own window</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.20/OnePaper-0.1.20.dmg" type="application/octet-stream" sparkle:edSignature="cCggRTMXdxkoZFrqCph0DDe6HKPqLa+5eh29lUJ7K7+IckAKgxj02XzMDAhnZQ0jr3+0vDJ2AmmSNW9Z9n5PDw==" length="19157363"/>
+    </item>
+    <item>
       <title>Version 0.1.19</title>
       <pubDate>Thu, 22 Oct 2026 17:39:51 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
