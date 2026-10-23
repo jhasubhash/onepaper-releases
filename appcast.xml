@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.21</title>
+      <pubDate>Fri, 23 Oct 2026 10:05:28 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.21</h3><ul><li>Nest a block by dragging it to the right as you move it: each step right puts it one level deeper under the block above. A block dragged over its own spot can be nested or un-nested where it is</li><li>Indent and Outdent in a single block&#x27;s right-click menu</li><li>While you drag a block, the page scrolls when you hold it near the top or bottom edge, or past the window</li><li>Excalidraw files dropped on or attached to a page become whiteboards you can draw on in place. An Excalidraw file attached before can be shown as a whiteboard from its block menu (Show as › Whiteboard)</li><li>MCP: agents can edit a page in place (edit_page), and draw Excalidraw diagrams as whiteboards, in a page or on their own (create_whiteboard, update_whiteboard)</li><li>Mac: Print and Save as PDF work again, and File › Print… prints the page in front</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.21/OnePaper-0.1.21.dmg" type="application/octet-stream" sparkle:edSignature="jTZQ+t4o6sp4bCFL46WfLKAADNfg0SDZ9XQHIr8CRrX5dL7ROyuj6y7PJRoBRbYNuvz3VdyTvv2udqdSvurSDw==" length="19978161"/>
+    </item>
+    <item>
       <title>Version 0.1.20</title>
       <pubDate>Thu, 22 Oct 2026 19:26:47 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
