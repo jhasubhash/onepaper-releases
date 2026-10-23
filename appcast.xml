@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.22</title>
+      <pubDate>Fri, 23 Oct 2026 15:14:21 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.22</h3><ul><li>Papers: right-click a PDF and choose Add to Papers to file it in your Papers library, with its title, authors, year, venue and link looked up. A PDF inside a page can be added too, and it stays where it is. Each paper gets its own page with Read, Summarize this paper and Add highlights</li><li>Summarize this paper: a summary, the key formulas and the main figures, each linked to its page in the PDF</li><li>People: the authors of your papers get a People collection, and each person&#x27;s page lists their papers</li><li>PDFs you drop in stay PDFs, shown with a PDF mark and a first-page preview</li><li>Collections: a chart view, a row&#x27;s page shows its properties under its title, and rows follow their pages (a paper moved to the Trash leaves the table, and comes back if restored)</li><li>All Pages has a Collections section at the top that stays put while you edit other pages. Settings › General › Collections turns the feature off</li><li>Trackers: log an entry from the menu bar or with Shortcuts</li><li>Blocks side by side: drag a block onto the right edge of another to put it in a new column, or use Put Beside Block Above</li><li>SVG shows as drawn, whether written in Markdown, pasted or drawn by the assistant. Double-click it to edit its source, or convert it to a whiteboard from its menu</li><li>Math: numbered equations, references to them with a preview on hover, and Copy Formula as LaTeX or as an image. More LaTeX renders, including amsmath environments</li><li>A tag&#x27;s page is the topic&#x27;s hub: its papers, people, books, concepts and open to-dos together</li><li>Copy pages in one copy of OnePaper and paste them in another, with their images and files</li><li>Bold, italic and the like now show around links and code (**[[Page]]**)</li><li>Fixed: a page open in a tab could undo a change made to it elsewhere, such as a paper added to Papers</li><li>Fixed: a starred page no longer shows as selected twice in the sidebar</li><li>Journal: select several entries to delete them together. Daily notes two devices made for the same day are merged</li><li>MCP: agents can add papers, attach files, create folders, rename, move and delete pages, create several pages at once, filter by tag and search with matching lines</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.22/OnePaper-0.1.22.dmg" type="application/octet-stream" sparkle:edSignature="eV2ApKQHcZofoyattvSNxW6yXrmd+REScaE1pL+Tkne0GImmczhLcPmEQKd7nFO8O0NwiO8pilU9HD+uwlgMCQ==" length="16357172"/>
+    </item>
+    <item>
       <title>Version 0.1.21</title>
       <pubDate>Fri, 23 Oct 2026 10:05:28 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
