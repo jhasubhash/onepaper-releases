@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.24</title>
+      <pubDate>Sat, 24 Oct 2026 05:53:52 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.24</h3><ul><li>Inbox: every space has an Inbox folder, and a page made outside a folder goes there. It can&#x27;t be renamed or deleted; its menu sends all its pages to the Trash</li><li>Trash: right-click it to Restore All or Empty Trash</li><li>Papers has a screen of its own: cards with each PDF&#x27;s first page, a list or a table, filters by reading status, search and sort, and PDFs dropped on it become papers. Papers can&#x27;t be deleted; Settings › Papers turns it off, hiding every Add to Papers too</li><li>A paper&#x27;s authors are links to their other papers</li><li>Fixed: a paper titled like a starter page (&quot;Attention Is All You Need&quot;) could be deleted after a sync. Adding it again fills its old row</li><li>Add to Papers on a PDF in the sidebar keeps the PDF where it is</li><li>Collections on All Pages: New Collection makes an empty one with a screen of its own. Drag the tiles to reorder them, or remove one from the section</li><li>Collections: rename, recolour or delete a select&#x27;s options, move columns and rows, show only rows with an option, and add a sum or average under a number column. Undoing a deleted row brings its page back too</li><li>Page icons can be SF Symbols</li><li>Page cards show the folder a page is in</li><li>On the Mac, drag on empty space to select several pages or papers at once, or press ⌘A</li><li>Fixed: a sidebar row could stay highlighted after you clicked elsewhere</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.24/OnePaper-0.1.24.dmg" type="application/octet-stream" sparkle:edSignature="F7Zm+v9af8mdEoLWyUvCDQjLFb3rBv4sjfKl3SJNaGcBKlJLUg5WA4DRRcHYlFe/jEjTmJX+t5mrjKQlyIavAw==" length="17410403"/>
+    </item>
+    <item>
       <title>Version 0.1.23</title>
       <pubDate>Sat, 24 Oct 2026 04:10:12 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
