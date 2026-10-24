@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.23</title>
+      <pubDate>Sat, 24 Oct 2026 04:10:12 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.23</h3><ul><li>Locked pages and folders: lock a page, or a folder with everything in it, from its menu. One unlock with Touch ID, Face ID or your password opens them all until OnePaper goes to the background or the screen locks. While locked, a page shows only its title: no preview, no text in search, no to-dos in Tasks, and the assistant and agents leave it out</li><li>Undo and Redo now work for every kind of edit in a page: formatting, Turn Into, to-dos, dates, tables, collections, callouts, images, links, the page&#x27;s icon, cover, colour and font, and assistant rewrites. A change made elsewhere (sync, an agent, a hub) is a step of its own</li><li>Tables turn into collections, with each column&#x27;s type read from its cells, and a log of dates and numbers opens on its chart. Charts can show a target line or a shaded range</li><li>Sync status: a line at the foot of the sidebar says where iCloud sync stands, and what to do if it&#x27;s stuck</li><li>HTML files import with their design: diagrams, callouts, toggles and columns come through. Table cells show bold, code and links styled</li><li>Big libraries stay fast: All Pages, Tasks and the journal show cards as you scroll, typing in long pages does less work, and the search panel loads only when opened</li><li>Several windows: a page open in two windows edits cleanly, with one Undo history, and each save does much less work per window</li><li>Pages with many tables or SVGs open faster. Turn into › SVG shows an SVG written as text as a picture</li><li>iPhone and iPad: block handles show again; on iPad with a pointer, the margin beside a block shows its handle</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.23/OnePaper-0.1.23.dmg" type="application/octet-stream" sparkle:edSignature="Aarifo2qpnGUgGQcvBF/vXnSva9tVGCtV4iTLOKoiKmZC6MpFnfuLZdwi7pSskUgY4cwf73rtKZnDix44y+PCQ==" length="17551952"/>
+    </item>
+    <item>
       <title>Version 0.1.22</title>
       <pubDate>Fri, 23 Oct 2026 15:14:21 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
