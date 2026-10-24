@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.25</title>
+      <pubDate>Sat, 24 Oct 2026 09:13:52 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.25</h3><ul><li>Tabs are as wide as their titles: short ones show in full, long ones fade out at the end. When the bar is full it scrolls sideways, keeping the open tab in sight</li><li>One block handle at a time: the block under the pointer, else the one selected or being edited</li><li>iPhone: Papers and collections fit the screen; their controls go on a row of their own</li><li>iPhone and iPad: Select in All Pages, folders and Papers picks several pages or papers by tap, and a block&#x27;s menu selects blocks and stretches the selection, to move or delete several at once</li><li>iPad with a keyboard or trackpad: ⌘-click and ⇧-click pick pages and papers, ⌘A selects them all, and a trackpad drag on empty space draws a selection rectangle. Selected blocks take the arrow keys, Tab, Delete, ⌘C, ⌘X and ⌘D as on the Mac, ⌘Z undoes when no text is being edited, and ⌘-click opens a link in a new tab</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.25/OnePaper-0.1.25.dmg" type="application/octet-stream" sparkle:edSignature="zFBecT919iiv88cr+KM898fffJcf8SDA6NZO14BoDFbptDvzajlM9JKb9mn11Fv3hBlUT5+kvLFT+Y10nEXHAg==" length="17426264"/>
+    </item>
+    <item>
       <title>Version 0.1.24</title>
       <pubDate>Sat, 24 Oct 2026 05:53:52 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
