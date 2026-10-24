@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.26</title>
+      <pubDate>Sat, 24 Oct 2026 17:07:33 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.1.26</h3><ul><li>AI Assistant edits the page in place: ask it to change the page and its edits are made as the reply finishes, shown in the chat as before and after, and ⌘Z undoes them all at once. With text or blocks selected it works on just those, and Replace swaps in its rewrite</li><li>Custom templates: Save as Template in a page&#x27;s ••• menu or a card&#x27;s menu, then New Page from Template shows yours under My Templates</li><li>Tabs come back after relaunch, and Go › Reopen Closed Tab (⇧⌘T) brings back the last one closed</li><li>Mac: drag a tab to another window&#x27;s tab bar, or out of its window to open it in a new one. A tab&#x27;s menu has Open in New Window (on iPad too)</li><li>Mac: dragging a folder in the sidebar shows whether it will go above, below or into another folder, at any level</li><li>Mac: drag-selecting blocks past the top or bottom of the window scrolls the page</li><li>iPad with room for tabs uses the Mac&#x27;s layout: a sidebar column, one bar with the tabs and search, and the page as a panel</li><li>iPad with a keyboard: ⌘N, ⌘T and the rest of File › New work, ⌘W closes the tab, and selected blocks and cards take the keys as on the Mac</li><li>Spaces can use an SF Symbol as their icon</li><li>Pages show in Spotlight, and Handoff continues the open page on your other devices</li><li>Edits are saved when you quit or switch away, and restoring a page from the Trash brings back its subpages</li><li>Fixed: a paper whose page was deleted couldn&#x27;t be removed</li><li>Fixed: a page titled like one of the starter pages could be deleted on sync</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.1.26/OnePaper-0.1.26.dmg" type="application/octet-stream" sparkle:edSignature="/mkcBDXTb4ahwlr+uuHTsraUwiHxled4Bd9pscKYRo2z8Ut4AjqtCh8Q/RUBJVC9wU642aImKLLjBEDMxZWbDg==" length="18527691"/>
+    </item>
+    <item>
       <title>Version 0.1.25</title>
       <pubDate>Sat, 24 Oct 2026 09:13:52 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
