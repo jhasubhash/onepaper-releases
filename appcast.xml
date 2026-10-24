@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Sat, 24 Oct 2026 18:09:50 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.0</h3><ul><li>HTML pages: import an HTML file (File › Import, or drop it on the library or a folder) and it stays a web page, with its own fonts, colours, layout and scripts, on Mac, iPad and iPhone. Its text is searchable, and its card shows a picture of it</li><li>Edit Page changes it right on the page, with a format bar over the selected text: bold, italic, underline, strikethrough, text colour, highlight, headings, quotes, code, sizes, lists, alignment and links. Edit HTML opens its source</li><li>The AI Assistant edits HTML pages in place too: ask for a change, or select text on the page first. ⌘Z undoes it</li><li>HTML pages are cut off from the internet by default: their scripts run, but nothing is loaded or sent, and links open in your browser. Allow Network Access in Page Settings lets a page reach the internet</li><li>Export HTML, Print / Save PDF and Copy as Markdown work on HTML pages, and Make a Page from It turns one into an ordinary page</li><li>MCP: agents can create HTML pages (create_html_page), and read and edit their HTML</li><li>The sidebar no longer shows a sync line all the time, only when iCloud sync needs attention. Settings › iCloud still shows the full status</li><li>A page that hides completed to-dos hides them in its card preview, sidebar preview and embedded previews too</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.0/OnePaper-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="E6AaYrdgH/rLywNYXvCO9+UCYtx64tOikN4uwTVMCz3AosGxdBHBySKby+xbbbyTki0SQLzv42cAq3PAMMaCAQ==" length="17925217"/>
+    </item>
+    <item>
       <title>Version 0.1.26</title>
       <pubDate>Sat, 24 Oct 2026 17:07:33 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
