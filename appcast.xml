@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.5</title>
+      <pubDate>Sun, 25 Oct 2026 19:33:35 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.5</h3><ul><li>Comments: add one to any block (block menu, /comment or ⌥⌘M) and it shows beside the block, with replies, editing and resolving</li><li>Comments on HTML pages too: select text or click the part of the page to comment on</li><li>Show or hide a page&#x27;s comments in Page Style (an HTML page&#x27;s Page Settings); focus mode hides them</li><li>Pin pages and subfolders in a folder: pinned pages show as cards at the top, and dragging reorders them</li><li>The assistant can search the web for current information and lists the pages it used (Settings › AI › Search the web)</li><li>The assistant sees a page&#x27;s comments, so it can address them</li><li>Asked to put an SVG in the page, the assistant adds it as a picture</li><li>Shift-Return at the end of an assistant message keeps the new line in view</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.5/OnePaper-0.2.5.dmg" type="application/octet-stream" sparkle:edSignature="haKSuvuS/QKAAq/ziYKHJizeAupqbcqGVte4XhN9osvGrOG4K+X846/Ws9tEpRpOz+PYKL/pSpZ7zezw0YnnAw==" length="20879206"/>
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <pubDate>Sun, 25 Oct 2026 13:21:39 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
