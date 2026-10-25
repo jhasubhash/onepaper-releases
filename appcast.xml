@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.3</title>
+      <pubDate>Sun, 25 Oct 2026 07:50:48 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.3</h3><ul><li>The page assistant can do more than rewrite text: it can add, delete, move and duplicate blocks, turn a block into another kind, tick off to-dos, set due dates, and change code languages, callout styles and image sizes. All of a reply&#x27;s changes undo in one step</li><li>Edits the assistant makes across several blocks keep their pictures, due dates and other details</li><li>Built-in templates can be deleted from New from Template, or copied into My Templates to change. Restore Built-ins brings them back</li><li>Pages with a wide table no longer spill over the card beside them in All Pages</li><li>Papers no longer appears in the menu bar&#x27;s Log to Tracker list or in Shortcuts</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.3/OnePaper-0.2.3.dmg" type="application/octet-stream" sparkle:edSignature="4bbOOS0+i3VUFOqiESs+C5a5VJRzgNUVdiB+V2RSHsJ3XcAZMUZF/y/N/sp7g104FcB2OTKmlAq7JwkCr0++CA==" length="20409291"/>
+    </item>
+    <item>
       <title>Version 0.2.2</title>
       <pubDate>Sun, 25 Oct 2026 05:01:48 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
