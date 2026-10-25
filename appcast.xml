@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.1</title>
+      <pubDate>Sun, 25 Oct 2026 04:18:22 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.1</h3><ul><li>Mermaid diagrams: a ```mermaid code block shows the diagram it describes, in the page&#x27;s light or dark. Double-click it (or Edit Mermaid Source) to change the source; source that doesn&#x27;t parse shows why. It all runs offline</li><li>The AI Assistant works on folders and All Pages: ask about their pages, and it can make new pages, move pages into folders and list pages to open, with Undo on the reply</li><li>Settings › AI › Show the AI assistant can hide the assistant everywhere: its buttons, ⌘J, the /ai commands and the AI items in menus. Agents&#x27; MCP access stays</li><li>Whiteboards in a page show just the drawing while you read. Click to draw and the tools appear; Done hides them again</li><li>Whiteboards and pages made inside a page no longer crowd their folder in the sidebar, and folder counts leave them out</li><li>A folder&#x27;s count, on its card, in its header and in the sidebar, includes its subfolders. New Folder is in the library&#x27;s + and ⋯ menus, and ⋯ also has New Page</li><li>Switching tabs selects the tab&#x27;s page in the sidebar, opening its folders and scrolling to it</li><li>Focus mode hides the page&#x27;s Back button, actions and assistant button</li><li>iPhone: wide images fit the page, and the page fits the screen</li><li>iPhone and iPad: SVG pictures draw at full strength instead of faintly, and are no longer cut off at the bottom</li><li>Mac: windows tell other apps which page is open, so tools that copy the front window&#x27;s path get the page&#x27;s folder path</li><li>Fixed a crash when resizing a PDF shown in a page theme</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.1/OnePaper-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="ToT3uBmdOAdEdtwn5VSf+QcDndraMoIjy5pGQRlSrfI0yzFi4EG513IGMXlpQdUhimdtAoLvq+OWkEIbd59oDw==" length="19277619"/>
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Sat, 24 Oct 2026 18:09:50 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
