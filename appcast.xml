@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.4</title>
+      <pubDate>Sun, 25 Oct 2026 13:21:39 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.4</h3><ul><li>Deleting a folder moves it to the Trash with everything in it, and restoring it brings the whole folder back</li><li>Folder cards in a folder&#x27;s view have a right-click menu</li><li>A page link inside a table opens the page instead of starting to edit the cell</li><li>Collections have their own section in the sidebar, which can be hidden in Settings</li><li>Closing a tab goes back to the tab the page was opened from</li><li>The assistant panel can be resized from its top and left edges, and Pin to Side docks it as a panel down the right of the window</li><li>Assistant replies show math, tables, numbered lists, quotes and highlighted code properly</li><li>The assistant&#x27;s text is sharp as soon as the panel opens</li><li>⌘N while typing to the assistant starts a new chat</li><li>Delete All Conversations, in the assistant&#x27;s menu and Settings › AI</li><li>Wide pictures no longer widen a card&#x27;s preview in All Pages</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.4/OnePaper-0.2.4.dmg" type="application/octet-stream" sparkle:edSignature="1Uithc8snCFQQcrmHdHxzk7RcCK94jbfAUpDxlziqcF5JAGHZiTaJAUCt429SioFwOSUDE0WUuAy4BiQEV8EBA==" length="20748986"/>
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <pubDate>Sun, 25 Oct 2026 07:50:48 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
