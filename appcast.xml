@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Sun, 25 Oct 2026 05:01:48 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.2</h3><ul><li>AI agents (MCP) can put images anywhere in a page: attach_file takes a place (after or before some text, or the page&#x27;s start or end), and read_page shows each picture with its own address, so agents can tell them apart and move them</li><li>New move_block tool: agents can move a block, or a run of blocks such as a whole section, to another place in the page</li><li>Images written in Markdown by web address, file path or data: URI are downloaded and kept in the page as pictures, instead of showing as broken links</li><li>More tools for agents: the Trash (list and restore), duplicate a page, the daily note, to-dos across pages (list them, tick them off), and Page History (list versions and restore one)</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.2/OnePaper-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="dxCk7Nxn3qulCl5kQ5LL959z2Rqts4jvdRYXu/xsNO/9Jqvu1svxTz4ey15bmZ7pWoHVvp9U/E94QZUlYGOTCg==" length="20153118"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Sun, 25 Oct 2026 04:18:22 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
