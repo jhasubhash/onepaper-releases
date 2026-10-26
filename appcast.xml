@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.9</title>
+      <pubDate>Mon, 26 Oct 2026 18:15:11 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.9</h3><ul><li>Assistant: each page, folder, HTML page and website keeps its own conversations, shown in the assistant&#x27;s history there; Delete All Conversations Here in its menu deletes only those (Settings › AI deletes them all)</li><li>Assistant: conversations sync across your devices through iCloud</li><li>Assistant: choose how long to keep conversations in Settings › AI (from a day to forever)</li><li>Assistant: scrolling up while a reply is coming in keeps your place; it follows the reply again once you&#x27;re back at the bottom</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.9/OnePaper-0.2.9.dmg" type="application/octet-stream" sparkle:edSignature="XgH9reKXeLGQOyEb0fee4ci9JyRsxJyP5YTdGiDpTQ+bu8bl8JllZOLUAgu/eVenzfnOLL07nOiwjqP/3LQ0CA==" length="21835336"/>
+    </item>
+    <item>
       <title>Version 0.2.8</title>
       <pubDate>Mon, 26 Oct 2026 15:05:14 GMT</pubDate>
       <sparkle:version>36</sparkle:version>
