@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.6</title>
+      <pubDate>Mon, 26 Oct 2026 12:05:50 GMT</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.6</h3><ul><li>Web (Mac and iPad): keep websites open as pages in the sidebar, such as dashboards, charts and stock prices. Group them, and each group signs in on its own; sign-ins last across launches</li><li>Keep a website live so it stays current and signed in when it isn&#x27;t on screen, or reload it every few minutes</li><li>Make a website your own: hide parts of it by clicking them, choose light or dark for it, zoom, or add your own CSS</li><li>The assistant works on websites too: ask what a dashboard shows, or have it restyle the site, for example to match your page theme or hide the clutter (with Undo)</li><li>A website that signs you out says so, on its page and in the sidebar</li><li>Web syncs between your Mac and iPad (sign-ins stay on each), and can be turned off in Settings › General</li><li>Local Files: Markdown, text and HTML files edited where they are, linked rather than copied. Whole folders too, shown as a tree that picks up new files</li><li>OnePaper is offered in Finder&#x27;s Open With for Markdown, text, HTML and PDF files</li><li>Comments are now a quiet mark beside the block (or part of an HTML page); click it to read and reply in place. The comment button (⌥⌘M) adds one to the block you&#x27;re on, or lets you click the one to comment on</li><li>Search finds folders, and shows the folder each page is in</li><li>Tables: drag a column&#x27;s edge to resize it</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.6/OnePaper-0.2.6.dmg" type="application/octet-stream" sparkle:edSignature="sj+SplHz3DqLwCI5rJmx6rgoXn5Rt0iGzZLQk84nljBJ9cJt89dNKTUGFix5+n/3pQMBj21UZTEx/qY90aL/Aw==" length="21711231"/>
+    </item>
+    <item>
       <title>Version 0.2.5</title>
       <pubDate>Sun, 25 Oct 2026 19:33:35 GMT</pubDate>
       <sparkle:version>33</sparkle:version>
