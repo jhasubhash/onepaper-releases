@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.12</title>
+      <pubDate>Tue, 27 Oct 2026 12:34:29 GMT</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.12</h3><ul><li>Folder view: drag a subfolder beside another to reorder it, or onto it to move it inside, as in the sidebar</li><li>A folder no longer shows twice in the sidebar, and Inbox copies made on two devices before syncing are folded into one</li><li>Settings › AI: pick Copilot&#x27;s or OpenCode&#x27;s model from the list they give; switching tools shows that tool&#x27;s models</li><li>The assistant stays on the page, folder or website it was opened on, and comes back where its chat was scrolled to</li><li>Local Files: a folder opens as a screen of its own, with the assistant, which can answer questions about all its files</li><li>iPad: hold in the page&#x27;s margin, then drag, to select several blocks</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.12/OnePaper-0.2.12.dmg" type="application/octet-stream" sparkle:edSignature="v1N/k5sc8kaw/Vf/UIzwsUxVBUe2pkY7R9m3Nji+MhzapeIoGKSdnOOLSOWseXk0wG1O73lvwqNKJCy4CMy4Bg==" length="21747492"/>
+    </item>
+    <item>
       <title>Version 0.2.11</title>
       <pubDate>Tue, 27 Oct 2026 03:13:13 GMT</pubDate>
       <sparkle:version>39</sparkle:version>
