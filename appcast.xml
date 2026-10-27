@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.10</title>
+      <pubDate>Tue, 27 Oct 2026 02:51:12 GMT</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.10</h3><ul><li>iCloud: fixed folders and pages disappearing from your other devices after a sync hiccup</li><li>Settings › Sync › Upload Again sends everything on this device to iCloud again, for when something is missing on your other devices</li><li>Assistant: Delete All Conversations Here deletes only that page&#x27;s, folder&#x27;s or website&#x27;s conversations (Settings › AI still deletes them all)</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.10/OnePaper-0.2.10.dmg" type="application/octet-stream" sparkle:edSignature="P8ZqOoMu3GYJAdZLh8IYKcR19J3JnjZuiLaUpMNcfnBws5cxGeR+daav13FnIh4539Zh2nhB4yNR1G21qUGrCA==" length="21598324"/>
+    </item>
+    <item>
       <title>Version 0.2.9</title>
       <pubDate>Mon, 26 Oct 2026 18:15:11 GMT</pubDate>
       <sparkle:version>37</sparkle:version>
