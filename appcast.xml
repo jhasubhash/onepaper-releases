@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.2.13</title>
+      <pubDate>Wed, 28 Oct 2026 12:40:29 GMT</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.2.13</h3><ul><li>iPhone and iPad: pages scroll again (0.2.12 stopped a swipe on the page from scrolling it)</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.2.13/OnePaper-0.2.13.dmg" type="application/octet-stream" sparkle:edSignature="vzlm4jq5Ax1Se2ShCgmTMKJZXPyn7zlIiEzE1L8ixopQY4aI+jDxZ6uX/LjyF03Z2PoQ86GPfuJLGunlpOpWCw==" length="21748145"/>
+    </item>
+    <item>
       <title>Version 0.2.12</title>
       <pubDate>Tue, 27 Oct 2026 12:34:29 GMT</pubDate>
       <sparkle:version>40</sparkle:version>
