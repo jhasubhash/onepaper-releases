@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Fri, 30 Oct 2026 03:05:48 GMT</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.3.0</h3><ul><li>Scenes, a new kind of page: 3D architecture diagrams on paper boards, with components, connectors and moving packets, in the page&#x27;s colours. New Scene in the sidebar, or `/scene` in a page</li><li>Scenes: 2D, isometric and free views, in perspective or flat; turn, pan and zoom by dragging</li><li>Scenes: a palette of components by category (servers, databases, queues, clouds, people, UML and flowchart cut-outs and more), some in several styles; resize, turn and raise them from their handles</li><li>Scenes: lights of their own in dark themes (point, spot and strip lights, ambient light, a sun), with soft shadows from every shape; Edit and Render modes</li><li>Scenes: connectors keep clear of components and of each other, meet raised things, flow at a speed you set, and draw a line to each replica</li><li>Scenes: names make room for each other, and Hide Labels leaves only the one you point at</li><li>Scenes: a component&#x27;s notes show in a speech balloon beside it when it&#x27;s clicked; the arrow keys read through them in an order you set, the camera following</li><li>Scenes: shots for presenting: where the camera goes, one after another, with smooth crane-like moves, spotlights and things that appear as you go; Present (⌘↩) plays them full window</li><li>Scenes in pages: a card showing a scene, or one board of it, and in HTML pages as frames, so a slide deck can step a scene through its shots</li><li>HTML pages: Export As › HTML keeps their scenes working in any browser, and Export As › PDF makes a page per slide of a deck, sharp and with selectable text</li><li>HTML pages: Edit Page edits the words where they are, with the page&#x27;s scripts still running; only what you type is saved, so nothing else on the page changes</li><li>HTML pages: while editing a deck, turn or zoom its scene and Save View to Shot keeps that view for the slide</li><li>Mac: Find in All Pages is a panel beside the page, so pages no longer flash while the window is resized</li><li>Scenes and HTML pages free their memory when closed</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.3.0/OnePaper-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="F29YS+XQtZvVIIGRZuQD4x5C6dvk0dZWNb3vxl5365vBafuh1XHGr0JLQy+gm1XaC8GmfXxtqGSHXBUaLuXYDw==" length="22362348"/>
+    </item>
+    <item>
       <title>Version 0.2.13</title>
       <pubDate>Wed, 28 Oct 2026 12:40:29 GMT</pubDate>
       <sparkle:version>41</sparkle:version>
