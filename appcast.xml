@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.2</title>
+      <pubDate>Fri, 30 Oct 2026 19:56:36 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.2</h3><ul><li>Scenes: layers. Tag boards, components and connectors (v2, v3, build…), switch them on and off from the menu, and choose which a shot shows</li><li>Scenes: a legend under the scene keying what it uses: its connector styles, inferred parts, sidecars and hub links</li><li>Scenes: boards that lay themselves out (Layout › Automatic), with components you drag staying pinned, and components placed below or beside another</li><li>Scenes: choose the side a connector leaves and arrives by, and route it through waypoints</li><li>Scenes: Add from Mermaid… turns a flowchart into boards, components and connectors</li><li>Scenes: Export GIF and Export Film (More menu, Mac) record the scene, any shot flown in from the one before, or any flow along its path</li><li>Scenes: live values. A component or connector can show a number read from a URL or a Prometheus query, turning amber or red past its thresholds, with connectors&#x27; packets moving as fast as their value</li><li>Scenes: group headings stay put above their boards; links into a hub board show as short stubs; a Labels choice for names only</li><li>MCP: `render_scene` returns a picture of a scene (a view, a shot or one board), and `export_scene_animation` a GIF or MP4</li><li>MCP: `create_scene` takes a Mermaid flowchart; `read_page` gives a scene&#x27;s summary or just the fields asked for</li><li>MCP: scenes are checked for components running into each other, names that run together, and links to files that aren&#x27;t there</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.2/OnePaper-0.4.2.dmg" type="application/octet-stream" sparkle:edSignature="/p+IpUbvXY+q8hmYStlKLnkaUSrhx+eh5sdnbwiH5B8lV794pQgcKHxs/ufsErgzxYovKENQZFK1zVNryOdHDw==" length="23332224"/>
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <pubDate>Fri, 30 Oct 2026 18:52:30 GMT</pubDate>
       <sparkle:version>44</sparkle:version>
