@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Fri, 30 Oct 2026 11:34:08 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.0</h3><ul><li>Animations, a new kind of page: maths and machine learning explained step by step, with captions, in the page&#x27;s colours. File › New Animation, the + menu, or `/animation` in a page</li><li>Animations: formulas written out and morphed into others, matrices multiplied row by column with each dot product shown, functions plotted with a point traced along them or gradient descent run down them</li><li>Animations: softmax on bars, attention and weight matrices as heatmaps, activations flowing through a neural network and gradients flowing back</li><li>Animations: step with the arrows, Space or a click, or press Play; going back always shows each step as it was</li><li>Animations in pages: a card that plays as soon as it&#x27;s shown (Autoplay, which you can turn off), and in HTML pages as frames, so a slide deck can step an animation along with its slides</li><li>Animations: ask the assistant (⌘J) to make one (&quot;explain gradient descent on x²&quot;), break it into smaller steps, add a worked example or explain the step you&#x27;re on, with Undo; or edit the JSON yourself</li><li>Scenes: neural network parts (neurons, layers, tensors, attention, transformer blocks, tokens and more) that glow with their activations, and dense connectors that join every unit of one layer to every unit of the next, coloured by their weights</li><li>MCP: agents can make and change animations (`create_animation`, `update_animation`), and look up what every scene component is and takes (`scene_catalog`)</li><li>iPad: Page Settings opens again on HTML pages</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.0/OnePaper-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="FgaUyHi6RQpJ5ouqF3AyjPKe55BrrLEob3B+HzCp+78VIqNhMSaHLCaz3NiPlZil5a5UUdCiIW3h4KRfEWhfBQ==" length="23282681"/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Fri, 30 Oct 2026 03:05:48 GMT</pubDate>
       <sparkle:version>42</sparkle:version>
