@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Fri, 30 Oct 2026 18:52:30 GMT</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.1</h3><ul><li>Scenes: Export HTML (More › Export HTML…), a page on its own that shows the scene in any browser, the arrow keys stepping through its shots</li><li>Scenes: find a component by name with the magnifier, ⌘F or /; picking one frames it with what it&#x27;s joined to</li><li>Scenes: shots can follow a path (its route bold and moving, the rest faded), hide things for a before and after, and keep part of the window clear for a slide&#x27;s words</li><li>Scenes: connectors can have text of their own, shown when one is clicked</li><li>Scenes: a Labels menu, to show every name however crowded, or none</li><li>Scenes: mark components and connectors as inferred, drawn dashed and faded, when they&#x27;re a guess rather than confirmed</li><li>Scenes: links in texts open web pages, OnePaper pages, files, and VS Code, Cursor or Zed</li><li>Scenes: sidecars that sit beside their host and move with it, and groups of boards with one heading over each</li><li>Scenes: new components: Operator, Custom Resource, Sidecar, Helm Chart, GitOps Sync and Keys / Stream, with names such as argocd, flux, keda, istio and fluent-bit understood</li><li>Scene links can open a scene at a view and a shot (`view=`, `shot=`)</li><li>MCP: `update_scene` takes small changes as well as a whole scene, and replies with where boards are and what overlaps; `update_html_page` replaces an HTML page&#x27;s HTML; the guide shows how to embed an animation in an HTML page</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.1/OnePaper-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="oNlpHj9OZskbn7bYBXWJp/sat3WdMLAXUqYDipzxv5V3BAlpDe7hJ2jD2vPr0U7q7mANIdBwJ5sNkYcJ7kZRBQ==" length="23283194"/>
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Fri, 30 Oct 2026 11:34:08 GMT</pubDate>
       <sparkle:version>43</sparkle:version>
