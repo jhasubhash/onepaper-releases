@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.3</title>
+      <pubDate>Fri, 30 Oct 2026 20:32:42 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.3</h3><ul><li>Scenes: zones. Mark the part of a board a component is in (a pod holding its supervisor and sidecars, a cluster holding its key families) and it&#x27;s drawn as a tinted area with its name; zones can sit inside zones</li><li>Scenes: two connectors between the same components, one each way, run side by side instead of on top of each other</li><li>Scenes: sidecars stay against their host however it&#x27;s moved</li><li>Scenes: a shot that shows only some layers frames just what&#x27;s left, and draws links into hub boards in full</li><li>Scenes: Labels › All Names, Not Connectors&#x27; fades names that would run into each other, as the default does</li><li>Scenes: recording a flow lights its steps one after another with each step&#x27;s caption, holds the camera still and leaves room for names; recording a shot shows its caption</li><li>MCP: `render_scene` says which names were hidden, overlapping or cut off in that view or shot; `render_scene` and `export_scene_animation` take `legend`, and recordings `captions`</li><li>MCP: warnings name the connector left out and its missing end, a component placed off its board, and what a shot names that isn&#x27;t there; `layer`, `live`, `zone` and look overrides are no longer reported as unused fields</li><li>MCP: after OnePaper restarts or updates, connected agents start a new session and see the current tools, rather than a list from before</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.3/OnePaper-0.4.3.dmg" type="application/octet-stream" sparkle:edSignature="sNTetSEZJPGzShqusRxt6Oae2x63o8WD+muilqmnpD//kEUYyZLCl2q5A0S5FuLyb2nXhvDBxwSb6mPX53onAw==" length="23335030"/>
+    </item>
+    <item>
       <title>Version 0.4.2</title>
       <pubDate>Fri, 30 Oct 2026 19:56:36 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
