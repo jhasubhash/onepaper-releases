@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.5</title>
+      <pubDate>Sat, 31 Oct 2026 08:09:11 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.5</h3><ul><li>Scenes: Export HTML opens in the colours the scene was seen in, rather than always following the browser (which showed it dark on a dark Mac)</li><li>Scenes: an exported scene has a settings button: light, dark or as the system, the view (isometric, isometric left, front, side, 2D, free), perspective or orthographic camera, which names show, the legend, layers, shots, animation, Reset View and Full Screen; each viewer&#x27;s choices are remembered in their browser</li><li>Scenes: clicking a component&#x27;s or connector&#x27;s name selects it, and in Render opens its description, as clicking it does</li><li>Scenes: recorded flows are framed evenly with the boards they pass through, whole, and captions keep a clear strip at the bottom so they no longer cover components or the legend</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.5/OnePaper-0.4.5.dmg" type="application/octet-stream" sparkle:edSignature="6LLWHr+G4FF2hod/80ndOgOyB1knkrxH69OSZcEKNHmSDYy4b2OtG4kmcXaZSxdwrptVbiyIYGMlIBwpVUnrDw==" length="23338478"/>
+    </item>
+    <item>
       <title>Version 0.4.4</title>
       <pubDate>Sat, 31 Oct 2026 03:08:47 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
