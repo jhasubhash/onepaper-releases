@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.4</title>
+      <pubDate>Sat, 31 Oct 2026 03:08:47 GMT</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.4</h3><ul><li>Scenes: drag a connector&#x27;s bends. Select a connector while editing and drag the handles on it to move each stretch of its route; Reset Route in the inspector puts it back</li><li>Scenes: zones&#x27; names sit at their top-left corner, above what&#x27;s in them, instead of hidden under components&#x27; names, and fade like other names when zoomed out</li><li>Scenes: a board grows to hold its zones, so none spill over its edge</li><li>Scenes: a sidecar&#x27;s name sits on its free side, not across its host</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.4/OnePaper-0.4.4.dmg" type="application/octet-stream" sparkle:edSignature="S5k1BoUXHVtbytW2tqPeM7cGyBgbZM5QbYZKzSB0rpD+4CSAq6Z9bHYtFwGPE3DRxUH75CkwoI+UXrN2N8IUDw==" length="23339096"/>
+    </item>
+    <item>
       <title>Version 0.4.3</title>
       <pubDate>Fri, 30 Oct 2026 20:32:42 GMT</pubDate>
       <sparkle:version>46</sparkle:version>
