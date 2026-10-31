@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.6</title>
+      <pubDate>Sat, 31 Oct 2026 11:27:54 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.6</h3><ul><li>Scenes: What If It Fails? — right-click a component or board to see what goes with it. It turns red, and what depends on it follows hop by hop: broken (orange) through requests and dependencies, held up (amber) through messages and streams; sidecars go with their hosts. Broken connectors stop carrying traffic, held-up ones slow to a crawl, and everything else fades. A bar counts what&#x27;s down, broken, held up and unaffected, and while editing saves it as a shot</li><li>Scenes: a shot&#x27;s &quot;fail&quot; shows a failure when presenting, rendering or recording</li><li>Scenes: Add from Docker Compose… (and create_scene&#x27;s compose over MCP) turns a Compose file into a scene: a component per service, its type from its image, replicas as its count, connectors from depends_on and links, guessed connectors (marked inferred) where a service&#x27;s environment names another as a host, and Clients calling what publishes ports</li><li>Scenes: a group&#x27;s heading in 3D stays on its top-left board</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.6/OnePaper-0.4.6.dmg" type="application/octet-stream" sparkle:edSignature="aqtOo2sZrpCIC7y3mVNMInGnTVK+ZDVTHdOx+5nLiKaDeQLiipNVCgxuQ10K9qpmiIbyHDl5+wn+uS3Pb4gADQ==" length="23343945"/>
+    </item>
+    <item>
       <title>Version 0.4.5</title>
       <pubDate>Sat, 31 Oct 2026 08:09:11 GMT</pubDate>
       <sparkle:version>48</sparkle:version>
