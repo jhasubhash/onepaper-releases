@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.7</title>
+      <pubDate>Sun, 01 Nov 2026 07:18:57 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.7</h3><ul><li>Scenes: the AI assistant works on scenes. Open it from the Assistant button in the corner (or ⌘J) and ask it to explain the scene, or to change any part of it: add, rename, restyle, move or remove components, connectors, boards, shots, flows and the scene&#x27;s own types, set any of their fields, or draw a new board or a whole new scene from scratch. Select something first and &quot;this&quot; means it. Each change can be undone from the panel or with ⌘Z</li><li>Scenes: suggestions to walk through a scene, describe its components, add a guided tour of shots, or tidy its layout</li><li>Scenes: a scene exported on its own as HTML shows its boards&#x27; names, with room for them in the frame</li><li>Scenes: Export HTML, Export Scene JSON, Export GIF, Export Film and Duplicate include an edit made just before them</li><li>Scenes: removing a board (over MCP&#x27;s update_scene too) removes what&#x27;s on it and their connectors</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.7/OnePaper-0.4.7.dmg" type="application/octet-stream" sparkle:edSignature="OxDvLYpo/cmvRV18ofL7NKC773g7B7TNQ5SkosJ8kj3K2Hel77K5GYlxm6KvZBhsWa69fQX89V1hCiWaVwwaBA==" length="23378184"/>
+    </item>
+    <item>
       <title>Version 0.4.6</title>
       <pubDate>Sat, 31 Oct 2026 11:27:54 GMT</pubDate>
       <sparkle:version>49</sparkle:version>
