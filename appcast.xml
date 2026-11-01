@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.8</title>
+      <pubDate>Sun, 01 Nov 2026 09:31:33 GMT</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.8</h3><ul><li>Scenes: boards&#x27; names stay put as the scene is turned in Free view, and sit where there&#x27;s room: off a board&#x27;s corner in the iso views, above it seen front-on</li><li>Scenes: a long board name is cut short with &quot;…&quot; rather than lying across the next board or the palette (the whole name shows on hover), so no board&#x27;s name disappears when zoomed out</li><li>Scenes: boards&#x27; names are a little darker</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.8/OnePaper-0.4.8.dmg" type="application/octet-stream" sparkle:edSignature="agUpRAyJ6yS/VOrUWZ8jQt1y+mQ6LoK/fAHrTCNBxtQCFZDoqpqGXJy9DWG22I11ik6PYC3WM2Ev48cLciKFCw==" length="23379049"/>
+    </item>
+    <item>
       <title>Version 0.4.7</title>
       <pubDate>Sun, 01 Nov 2026 07:18:57 GMT</pubDate>
       <sparkle:version>50</sparkle:version>
