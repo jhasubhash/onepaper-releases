@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.4.9</title>
+      <pubDate>Sun, 01 Nov 2026 13:06:22 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.4.9</h3><ul><li>Scenes: What If It Fails? follows each connector&#x27;s kind and direction. A request&#x27;s caller breaks when what it calls fails, a message&#x27;s producer and consumer hold each other up, what depends on something breaks with it, and a stream&#x27;s or copy&#x27;s receiver is held up. Only what&#x27;s broken passes it on</li><li>Scenes: a new &quot;cut off&quot; state (grey) for what&#x27;s still running but no requests or messages reach any more, such as everything behind a gateway that&#x27;s down</li><li>Scenes: hover a marked component to see why, back to what failed; the counts in the failure bar open a list of each</li><li>Scenes: &quot;propagates&quot;: false on a connector or a board (build, deploy, docs) keeps a failure from crossing it</li><li>Scenes: during a failure, connectors to or from what&#x27;s down, broken or cut off stand still; only a held-up one between two running things crawls</li><li>MCP: scene_catalog with &quot;failure&quot; explains which way each connector points (a dependency A → B means A depends on B) and how a failure spreads; the in-app assistant knows it too</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.4.9/OnePaper-0.4.9.dmg" type="application/octet-stream" sparkle:edSignature="Y0mrAkzdrFt4qv2+zcYOq5AHe5Jsdi7l2nfYHzseYFKMO+IK1SDr2cP6LIhbGhe6gpRZj0B7qBqzhQdgURD8Dg==" length="23387797"/>
+    </item>
+    <item>
       <title>Version 0.4.8</title>
       <pubDate>Sun, 01 Nov 2026 09:31:33 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
