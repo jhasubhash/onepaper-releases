@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.0</title>
+      <pubDate>Sun, 15 Nov 2026 07:14:30 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.5.0</h3><ul><li>Code blocks run: press ⌘↩ or Run. JavaScript runs everywhere; on the Mac Python, Shell, Swift and Ruby run with your own tools. The output stays under the block</li><li>Tables can show a chart (bar, line, points or area) from the table&#x27;s Chart menu; the numbers stay in the table</li><li>Graph: a map of your pages and the links between them, in the sidebar</li><li>Widgets: today&#x27;s to-dos and Quick Capture on the Home Screen and desktop, and a Control Center control on iPhone and iPad</li><li>Sketches: /sketch draws in a page with Apple Pencil or your finger, on iPhone and iPad</li><li>Papers: cite them in a page with [@key] (type [@ to pick one). Exported to HTML or PDF, citations are numbered with a References list, and Copy As › BibTeX of Cited Papers gives their entries</li><li>Apple Intelligence can be the assistant (Settings › AI › Use): on-device, no key, nothing leaves the device</li><li>Linked folders keep Obsidian&#x27;s Markdown as it is: front matter, callout types and titles, [[Page|shown text]] and [[Page#Heading]]</li><li>Scenes from Kubernetes manifests, Terraform and OpenTelemetry traces (Add from… in a scene&#x27;s menu, and MCP&#x27;s create_scene)</li><li>Sync: a page edited on two devices while apart now merges block by block, instead of the later edit replacing the other</li><li>Search: Find in All Pages uses a full-text index, so it&#x27;s quick in large libraries; Ask my notes sends the passages that answer</li><li>Page History, and edits not yet synced, are encrypted on the device</li><li>If the library can&#x27;t be opened, OnePaper opens without crashing and says so; the sidebar says when sync is off</li><li>⌘S saves; the sidebar moved to ⌃⌘S</li><li>VoiceOver: labels on icon-only buttons, and every card in the library is reachable</li><li>Mac: the pointer over a code block&#x27;s buttons is the hand, not the text&#x27;s I-beam</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.5.0/OnePaper-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="bgWHct8or5cr3Yw4PhRBe5rruHBy9dKloB6BxIAC5K77vxmtnUZ7KAkrykTxftW8rnBvLTSbznmPAob9yYszDw==" length="23391861"/>
+    </item>
+    <item>
       <title>Version 0.4.9</title>
       <pubDate>Sun, 01 Nov 2026 13:06:22 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
