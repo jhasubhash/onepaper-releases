@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.1</title>
+      <pubDate>Tue, 17 Nov 2026 08:14:59 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.5.1</h3><ul><li>Page variables for runbooks: a Page Variables block (/env) holds KEY=value lines that every code block run on the page gets, so KUBECONFIG, cluster and namespace are written once. A block&#x27;s own assignments win, and the output lists the variables it ran with. NAME=keychain:&lt;name&gt; reads a password from your keychain when the block runs, so secrets stay out of the page; Login Shell applies your ~/.zshrc exports</li><li>Folders: a back button (⌘↑) at the top left of a subfolder goes to the folder it&#x27;s in</li><li>Tables widen to the page before their text wraps</li><li>Paragraphs have a little more space between them</li><li>Mac: no extra blank space under a block after Shift-Return</li><li>The block handle no longer flickers or disappears while the pointer is on it</li><li>Dragging a heading shows the section that moves with it, and says ⌥ moves just the heading</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.5.1/OnePaper-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="hfttAuO//z/5uBDK0XIkbvY6rBd1Nj+VYUhR39o0DzerXeXFvNAcLNFCkAB3tpaScb4nVDs1VzgJ2rVjzrcnCw==" length="24245976"/>
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <pubDate>Sun, 15 Nov 2026 07:14:30 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
