@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.2</title>
+      <pubDate>Wed, 18 Nov 2026 07:58:05 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.5.2</h3><ul><li>Pinch to zoom pages: pinch on the trackpad (or ⌘+ / ⌘−, ⌘0 for actual size) to magnify a page or an HTML page, up to 300%, as you would a PDF. Nothing wraps or moves again. Turn it off in Settings › Editor</li><li>Whiteboards in pages: pinch on one to zoom its drawing, and on the Mac drag it to move the drawing around, without clicking in to draw. The board&#x27;s bar has a Draw button. Turn it off in Settings › Editor</li><li>AI agents (MCP): whiteboards they make are laid out as they&#x27;re made, with labels that fit their shapes, room between shapes for arrow labels, and group boxes around their contents, so a board looks right the first time it&#x27;s opened. Agents can also lay shapes out automatically, left to right or top to bottom, place arrow labels, and see a picture of the board (render_whiteboard)</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.5.2/OnePaper-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="w4QW1p2QIgfvle2tGolsYqPcA2cd8u6m+Wy/w21C/DkKaO6m/Bmy+2mlGjyPfsD0FVCMG1VMqtKtozPBuh1sAA==" length="23583554"/>
+    </item>
+    <item>
       <title>Version 0.5.1</title>
       <pubDate>Tue, 17 Nov 2026 08:14:59 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
