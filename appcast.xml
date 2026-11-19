@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onepaper-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.5.3</title>
+      <pubDate>Thu, 19 Nov 2026 10:50:02 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>OnePaper 0.5.3</h3><ul><li>Much less memory: whiteboards (open in a tab, in a page, or drawn for a thumbnail) now let their memory go once they&#x27;re closed or scrolled away. Before, each one kept about 50 MB until you quit OnePaper, so a day of use could reach a few gigabytes</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onepaper-releases/releases/download/v0.5.3/OnePaper-0.5.3.dmg" type="application/octet-stream" sparkle:edSignature="QIW6AJrFkYF0ogxKXJyH+l0CewJHAIEpPY4JRgzqUdVYsALtJ4ldNoEgVmtlGn3IXKXxB5Ikp6iEnEvY1jCZCw==" length="23583782"/>
+    </item>
+    <item>
       <title>Version 0.5.2</title>
       <pubDate>Wed, 18 Nov 2026 07:58:05 GMT</pubDate>
       <sparkle:version>55</sparkle:version>
